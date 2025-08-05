@@ -28,9 +28,8 @@ A real-time traffic analysis system using **YOLOv8** that detects and tracks veh
 
 ```bash
 YOLO-Vehicle-Speed-Tracker/
-├── main.py             # Main script with detection, speed logic & overlay
+├── traffic.py             # Main script with detection, speed logic & overlay
 ├── requirements.txt    # Python dependencies
 ├── yolo11n.pt          # YOLO model weights (excluded from GitHub)
 ├── sample.mp4          # Sample input video (optional, <100MB)
 ├── README.md           # Project overview and usage guide
-├── .gitignore          # To ignore temporary/system files
