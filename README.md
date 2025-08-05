@@ -6,8 +6,7 @@ A real-time traffic analysis system using **YOLOv8** that detects and tracks veh
 
 ## 📸 Demo Preview
 
-<!-- Add GIF or screenshot here -->
-*(Optional: Insert a demo GIF or before/after frame for better visual appeal)*
+![Demo](ScreenRecording2025-08-05at12.11.41-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
